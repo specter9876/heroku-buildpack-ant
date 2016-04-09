@@ -2,7 +2,7 @@
 # it is assumed that <BUILD_DIR> is set before this file is sourced.
 
 ANT_VER="1.9.6"
-ANT_URL="http://mirrors.muzzy.it/apache//ant/binaries/apache-ant-1.9.6-bin.zip"
+ANT_URL="http://mirrors.muzzy.it/apache//ant/binaries/apache-ant-1.9.6-bin.tar.gz"
 
 
 VENDORING_DIR="$BUILD_DIR/.buildpack"
